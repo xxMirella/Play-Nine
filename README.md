@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Play Nine
+
+Game created using react, to learn about how does react work.
 
 ## Available Scripts
 
